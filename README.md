@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderlinguist
+- 👋 Hi, I’m @GemmaLouiseMajor
 - 👀 I’m interested in language, linguistics, and coding
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on all types of sprints and challenges, and especially those related to language problems and solutions
